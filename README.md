@@ -11,7 +11,7 @@ The CNN model architecture used for this project consists of multiple convolutio
 
 Dependencies:
 
-Python 3.x
+Python 
 TensorFlow
 Keras
 NumPy
